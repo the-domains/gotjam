@@ -1,0 +1,28 @@
+name: gotjam
+favicon: null
+layout_spectrum: 0.2508480597753078
+typography_spectrum: 0.8051712769083679
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7681610970757902
+  lightness: 0.774877421092242
+  saturation: 0.44705949747003615
+  rhythmicContrast: 0.19728619512170553
+purpose: []
